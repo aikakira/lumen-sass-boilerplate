@@ -1,0 +1,6 @@
+*.swp
+*.swo
+_Design/*
+node_modules/*
+src/images/*
+_Backend/vendor/*
