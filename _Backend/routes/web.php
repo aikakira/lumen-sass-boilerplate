@@ -12,3 +12,4 @@
 */
 
 $router->get('/', 'HomepageController@render');
+$router->get('/menu', 'MenuController@render');

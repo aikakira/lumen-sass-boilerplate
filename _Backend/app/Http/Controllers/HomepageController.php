@@ -10,7 +10,14 @@ class HomepageController extends Controller
 
     public function render()
     {
-        $data = [];
+        $data = [
+            "title" => "Hello!",
+            "menu" => [
+                "items" => [
+                    "Pages"
+                ]
+            ]
+        ];
         return view('homepage', $data);
     }
 }

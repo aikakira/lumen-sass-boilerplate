@@ -1,16 +1,22 @@
-# Barkers Florist!
-
-## What we're going to play with
-
-- Sass
-- **Mythril JS!!**
-- Lazyload images
-- Animating text fade in's
-- Image hover fancy transitions 
+# Project Boilerplate
 
 
-## End goal
+## Start!
+This is a simple project starter that includes Lumen & Sass, use the following commands to get started:
 
-See if we can score a contract with Barkers to redesign their website!
+```
+npm setup
+```
 
-We will first do a playground test and then send them there, wow them and hopefully the teaser will make them want to pay us!
+Once both package managers finish installing their dependencies, you can run:
+
+```
+npm start
+```
+
+This will watch and build your sass into the srv/css folder
+
+
+## To Do
+
+- Include build JS 

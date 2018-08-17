@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "setup": "npm install && cd _Backend/ && composer install",
+    "start": "grunt",
     "deploy": ""
   },
   "devDependencies": {
